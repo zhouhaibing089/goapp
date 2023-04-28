@@ -1,0 +1,187 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  namespace: haibing-zhou
+  name: goapp-15
+spec:
+  containers:
+  - name: "p1234"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1234
+    
+  - name: "p1235"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1235
+    
+  - name: "p1236"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1236
+    
+  - name: "p1237"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1237
+    
+  - name: "p1238"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1238
+    
+  - name: "p1239"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1239
+    
+  - name: "p1240"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1240
+    
+  - name: "p1241"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1241
+    
+  - name: "p1242"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1242
+    
+  - name: "p1243"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1243
+    
+  - name: "p1244"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1244
+    
+  - name: "p1245"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1245
+    
+  - name: "p1246"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1246
+    
+  - name: "p1247"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1247
+    
+  - name: "p1248"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1248
+    
+  - name: "p1249"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1249
+    
+  - name: "p1250"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1250
+    
+  - name: "p1251"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1251
+    
+  - name: "p1252"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1252
+    
+  - name: "p1253"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1253
+    
+  - name: "p1254"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1254
+    
+  - name: "p1255"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1255
+    
+  - name: "p1256"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1256
+    
+  - name: "p1257"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1257
+    
+  - name: "p1258"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1258
+    
+  - name: "p1259"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1259
+    
+  - name: "p1260"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1260
+    
+  - name: "p1261"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1261
+    
+  - name: "p1262"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1262
+    
+  - name: "p1263"
+    image: haibzhou/k8s-kubelet-race:v0.1
+    command:
+    - /usr/local/bin/goapp
+    - --port=1263
+    
