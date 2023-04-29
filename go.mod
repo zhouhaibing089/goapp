@@ -1,3 +1,3 @@
-module github.com/zhouhaibing089/k8s-kubelet-race
+module github.com/zhouhaibing089/goapp
 
 go 1.16
